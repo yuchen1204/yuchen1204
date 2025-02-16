@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://dev.1.ycxiao1204.com/mmexport1737968334307.jpg" alt="YC's Avatar" width="200" height="200" style="border-radius: 50%"/>
+  <picture>
+    <img src="https://dev.1.ycxiao1204.com/mmexport1737968334307.jpg" alt="YC's Avatar" width="200" height="200" style="border-radius: 50%;" />
+    <style>
+      img {
+        border-radius: 50%;
+      }
+    </style>
+  </picture>
 
 # ✨ Hi there, I'm yc! | 你好，我是 yc!
 
