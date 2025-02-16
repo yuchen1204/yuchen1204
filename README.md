@@ -1,5 +1,3 @@
-![Header](https://dev.1.ycxiao1204.com/20250216_121356.jpg)
-
 <div align="center">
   <img src="https://dev.1.ycxiao1204.com/mmexport1737968334307.jpg" alt="YC's Avatar" width="200" height="200" style="border-radius: 50%"/>
 
