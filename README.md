@@ -66,8 +66,8 @@
 ## 🔗 联系我 / Follow Me
 
 * 💌 Email: `yuchen@yuchen.my`
-* 🐦 Twitter: [@your\_handle](https://twitter.com/yccc_0000)
-* 💬 Telegram: [@your\_username](https://t.me/yccc_0523)
+* 🐦 Twitter: [@yccc_0000](https://twitter.com/yccc_0000)
+* 💬 Telegram: [@yccc_0523](https://t.me/yccc_0523)
 
 ---
 
