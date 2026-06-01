@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/92127505?v=4" width="120" style="border-radius:50%" />
+<img src="assets/avatar.png" width="130" />
 
 # yuchen1204
 
