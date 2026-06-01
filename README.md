@@ -1,54 +1,66 @@
-╔══════════════════════════════════╗
-║        🌸 yc’s GitHub Realm      ║
-╚══════════════════════════════════╝
+<div align="center">
 
-"Chaos and pain are my compilers; I debug reality with code."
+<img src="https://avatars.githubusercontent.com/u/92127505?v=4" width="120" style="border-radius:50%" />
 
-─────────────────────────────
-🧠 About Me
-─────────────────────────────
-🏠 Malaysia
-🧬 Self-taught edge-case coder
-💻 Obsessed with backend, embedded systems & cross-platform Flutter
-🔧 Fluent: Go | Flutter | C/C++ | ESP-IDF
-💬 Chinese / English
+# yuchen1204
 
-─────────────────────────────
-🚀 Current Experiments
-─────────────────────────────
+**Builder · Breaker · Embedded Systems Tinkerer**
 
-[ESP32 Flight Control System]
-• Altitude & speed lock, area patrol
-• Sensor fusion: MPU6050 + GPS
-• Autonomous waypoints & return-to-home
+`Go` `Flutter` `TypeScript` `Kotlin` `C/C++` `Python`
 
-[Appwrite + Flutter Realtime Chat Lab]
-• End-to-end encrypted messaging (Signal Protocol inspired)
-• Cloudflare Realtime as TURN
-• Voice chat & WebRTC prototyping
+[![GitHub followers](https://img.shields.io/github/followers/yuchen1204?style=social)](https://github.com/yuchen1204)
+[![GitHub stars](https://img.shields.io/github/stars/yuchen1204?style=social)](https://github.com/yuchen1204)
 
-─────────────────────────────
-🛠️ Tech Stack
-─────────────────────────────
+</div>
 
-Languages:
-`Go` | `Dart` | `C` | `C++` | `Python`
+---
 
-Frameworks & Platforms:
-`Gin` | `Flutter` | `ESP-IDF` | `Docker` | `Appwrite`
+### About
 
-Databases & Cloud:
-`MySQL` | `SQLite` | `Firebase` | `Appwrite Cloud`
+Self-taught developer from Malaysia. I build full-stack apps, break things in security research, and wire up microcontrollers for fun. Bilingual in Chinese and English.
 
-Tools & Misc:
-`Linux` | `Git` | `VSCode` | `PlatformIO` | `Markdown`
+---
 
-─────────────────────────────
-📈 GitHub Stats
-─────────────────────────────
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchen1204&show_icons=true&theme=tokyonight)
+### Featured Projects
 
-─────────────────────────────
-🖤 Motto
-─────────────────────────────
-"Perfection is boring. I’d rather crash, burn, and rebuild—one commit at a time."
+| Project | What It Is | Stack |
+|---------|-----------|-------|
+| [**omnichat**](https://github.com/yuchen1204/omnichat) | Cross-platform chat application | `Kotlin` |
+| [**Canvas-on-Web**](https://canvas-on-web.vercel.app) | Interactive canvas experiment on the web | `TypeScript` |
+| [**Daylo**](https://daylo-three.vercel.app) | Clean, minimal note-taking app | `TypeScript` |
+| [**workout-plan**](https://workout-plan-opal.vercel.app) | Workout planning & tracking app | `TypeScript` |
+| [**RSC_Detector**](https://github.com/yuchen1204/RSC_Detector) | RSC fingerprinting & React component vulnerability exploitation (CVE-2025-55182) | `Python` |
+| [**ClaudeCode**](https://github.com/yuchen1204/ClaudeCode) | Runnable Claude Code source | - |
+| [**xssh**](https://github.com/yuchen1204/xssh) | SSH exploitation toolkit | `Shell` |
+
+---
+
+### Toolbox
+
+```
+Languages     Go · Dart · Kotlin · TypeScript · C/C++ · Python · PHP
+Frameworks    Flutter · Gin · ESP-IDF · React
+Infra         Docker · Appwrite · Firebase · Cloudflare
+Databases     MySQL · SQLite
+Tools         Linux · Git · VSCode · PlatformIO
+```
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuchen1204&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchen1204&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Perfection is boring. Crash, burn, rebuild — one commit at a time."*
+
+</div>
