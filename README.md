@@ -51,9 +51,9 @@ Tools         Linux · Git · VSCode · PlatformIO
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuchen1204&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=yuchen1204&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchen1204&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchen1204&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
