@@ -25,13 +25,12 @@ Self-taught developer from Malaysia. I build full-stack apps, break things in se
 
 | Project | What It Is | Stack |
 |---------|-----------|-------|
+| [**discusai**](https://github.com/yuchen1204/discusai) | Multi-agent AI debate platform with real-time WebSocket streaming | `TypeScript` `Cloudflare Workers` |
+| [**uno**](https://github.com/yuchen1204/uno) | Real-time multiplayer UNO card game with full rule set | `TypeScript` `Cloudflare Workers` |
+| [**daylo-cloudflare**](https://github.com/yuchen1204/daylo-cloudflare) | Local-first note-taking PWA — Markdown, canvas, and mind maps | `TypeScript` `React` |
 | [**omnichat**](https://github.com/yuchen1204/omnichat) | Cross-platform chat application | `Kotlin` |
-| [**Canvas-on-Web**](https://canvas-on-web.vercel.app) | Interactive canvas experiment on the web | `TypeScript` |
-| [**Daylo**](https://daylo-three.vercel.app) | Clean, minimal note-taking app | `TypeScript` |
-| [**workout-plan**](https://workout-plan-opal.vercel.app) | Workout planning & tracking app | `TypeScript` |
-| [**RSC_Detector**](https://github.com/yuchen1204/RSC_Detector) | RSC fingerprinting & React component vulnerability exploitation (CVE-2025-55182) | `Python` |
-| [**ClaudeCode**](https://github.com/yuchen1204/ClaudeCode) | Runnable Claude Code source | - |
-| [**xssh**](https://github.com/yuchen1204/xssh) | SSH exploitation toolkit | `Shell` |
+| [**journey_diary**](https://github.com/yuchen1204/journey_diary) | AI-powered travel journal with charts and image uploads | `TypeScript` `Express` `Gemini` |
+| [**ClaudeCode**](https://github.com/yuchen1204/ClaudeCode) | Restored TypeScript source of Claude Code CLI (research) | `TypeScript` `Bun` |
 
 ---
 
@@ -40,7 +39,7 @@ Self-taught developer from Malaysia. I build full-stack apps, break things in se
 ```
 Languages     Go · Dart · Kotlin · TypeScript · C/C++ · Python · PHP
 Frameworks    Flutter · Gin · ESP-IDF · React
-Infra         Docker · Appwrite · Firebase · Cloudflare
+Infra         Docker · Appwrite · Firebase · Cloudflare Workers · Durable Objects
 Databases     MySQL · SQLite
 Tools         Linux · Git · VSCode · PlatformIO
 ```
